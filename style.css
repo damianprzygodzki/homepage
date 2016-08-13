@@ -116,7 +116,7 @@ hr {
     position: fixed;
     height: 100vh;
     z-index: 1;
-    width:2px;
+    width:3px;
     top:0;
     left: 0;
     background-color: #7200ff;
